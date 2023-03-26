@@ -2,7 +2,7 @@
 
 為 Typecho 文章生成懸浮內容目錄的插件。
 
-<img src="https://user-images.githubusercontent.com/64857501/227782930-045ca437-8294-4415-a55c-2ba7e14470b6.jpeg" alt="預覽" width="100px" />
+<img src="https://user-images.githubusercontent.com/64857501/227782930-045ca437-8294-4415-a55c-2ba7e14470b6.jpeg" alt="預覽" width="250px" />
 
 ## 安装
 

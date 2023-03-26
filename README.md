@@ -1,4 +1,4 @@
-# remoomenu for Typecho
+# RemooMenu for Typecho
 
 為 Typecho 文章生成懸浮內容目錄的插件。
 
